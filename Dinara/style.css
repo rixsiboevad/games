@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    display: block;
+    background-color: aliceblue;
+}
+img {
+    width: 100%;
+    display: block;
+    padding: 10px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+div{
+    width: 20%;
+    height: 20%;
+    box-sizing: border-box;
+    display: inline-block;
+
+}
+body {
+    background-image: url(https://media.cnn.com/api/v1/images/stellar/prod/i-stock-1287493837-1.jpg?c=16x9&q=h_833,w_1480,c_fill);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h3 {
+    background-color: aliceblue;
+}
